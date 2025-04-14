@@ -1,0 +1,3 @@
+package = [
+    { url = "https://github.com/ResearchOS/ross_cli.git" },
+]
