@@ -1,3 +1,4 @@
 package = [
     { name = "load-gaitrite", url = "https://github.com/RTO-Spinal-Stim/load-gaitrite.git" },
+    { name = "load_xsens", url = "https://github.com/RTO-Spinal-Stim/load-xsens.git" },
 ]
